@@ -17,7 +17,8 @@ namespace ConsoleApp1
             string lastName = "ratana";
 
             int number2 = 500;
-            int result = number + number2;
+            int number3 = 300;
+            int result = number + number3;
             Console.WriteLine(result);
             Console.ReadLine();
         }
